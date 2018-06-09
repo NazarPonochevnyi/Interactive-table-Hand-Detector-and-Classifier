@@ -17,12 +17,12 @@ To run my program you need to download Python 3.6
     python3 find_hands.py
     python3 find_hands_video.py
 
-The note:
+###### The note:
     * The first run of the program can be very long, about 1 min 30 seconds. Please wait...
     ** If you want to see the code or change INPUT_VARIABLES, open the file
     using a text editor and read the information in the file header.
 
-About "find_hands.py":
+##### About "find_hands.py":
     Find | Detection | Classification hands
 
     This is a program that opens an image file or directory with image files. Then she
@@ -37,7 +37,7 @@ About "find_hands.py":
         BORDER_SIZE - 1 px
         SCALE_IMAGE - scaling 2 times
 
-About "find_hands_video.py":
+##### About "find_hands_video.py":
     Find | Detection | Classification hands | On video
 
     This is the program that opens the video file. Then she detect hands and
@@ -52,12 +52,9 @@ About "find_hands_video.py":
         BORDER_SIZE - 1 px
         SCALE_IMAGE - no scaling
 
-"What did I use?"
-    * To find the hands on the image - OpenCV HaarCascade (.xml),
-    which was fully trained by me.
-    * To For recognition of the left and right hand - a simple binary classifier
-    that works with convolutional neural networks. To create the model, the
-    Keras library was used, and on the backend - TensorFlow.
+#### "What did I use?"
+* To find the hands on the image - OpenCV HaarCascade (.xml), which was fully trained by me.
+* To For recognition of the left and right hand - a simple binary classifier that works with convolutional neural networks. To create the model, the Keras library was used, and on the backend - TensorFlow.
     
 Comments:
     - Since I didn't have much time and computing resources, the
