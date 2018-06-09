@@ -55,10 +55,5 @@ To run my program you need to download Python 3.6
 #### "What did I use?"
 * To find the hands on the image - OpenCV HaarCascade (.xml), which was fully trained by me.
 * To For recognition of the left and right hand - a simple binary classifier that works with convolutional neural networks. To create the model, the Keras library was used, and on the backend - TensorFlow.
-    
-Comments:
-    - Since I didn't have much time and computing resources, the
-    model of detection and classification is not terrific. But I think that
-    for two weeks it's a not bad result :)
 
 Author: Nazar Ponochevnyi
