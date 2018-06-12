@@ -7,15 +7,15 @@ To run my program you need to download Python 3.6
 (https://www.python.org/)
 
 1. Open CMD.EXE and install the following modules.
-    pip3 install keras
-    pip3 install tensorflow
-    pip3 install opencv-python
+        pip3 install keras
+        pip3 install tensorflow
+        pip3 install opencv-python
 2. Navigate to the directory where you extracted the Solution.zip file.
-    cd /d D: (The drive in which you extracted the Solution.zip file)
-    cd folder/where/you/extracted/Solution.zip/file
+        cd /d D: (The drive in which you extracted the Solution.zip file)
+        cd folder/where/you/extracted/Solution.zip/file
 3. Run "find_hands.py" or "find_hands_video.py".
-    python3 find_hands.py
-    python3 find_hands_video.py
+        python3 find_hands.py
+        python3 find_hands_video.py
 
 ###### The note:
     * The first run of the program can be very long, about 1 min 30 seconds. Please wait...
