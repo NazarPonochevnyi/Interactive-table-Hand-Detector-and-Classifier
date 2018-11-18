@@ -26,6 +26,20 @@ To run my program you need to download Python 3.6
 * The first run of the program can be very long, about 1 min 30 seconds. Please be patient.
 * If you want to see the code or change INPUT_VARIABLES, open the file using a text editor and read the information in the file header.
 
+### Results of detection and classification
+
+Result of work on image with left hand:
+
+![Result of work on image with left hand](https://github.com/NazarPonochevnyi/Interactive-table-Hand-Detector-and-Classifier/blob/master/z_results/test_left.jpg)
+
+Result of work on image with right hand:
+
+![Result of work on image with right hand](https://github.com/NazarPonochevnyi/Interactive-table-Hand-Detector-and-Classifier/blob/master/z_results/test_right.jpg)
+
+Result of work on image with both hands:
+
+![Result of work on image with both hands](https://github.com/NazarPonochevnyi/Interactive-table-Hand-Detector-and-Classifier/blob/master/z_results/test_both.jpg)
+
 ##### About "find_hands.py":
     Find | Detection | Classification hands
 
