@@ -1,5 +1,11 @@
 # Interactive-table-Hand-Detector-and-Classifier
-Interships 2018 task - Computer Vision | My solution
+
+![](https://img.shields.io/badge/-status:wip-5319e7.svg)
+![](https://img.shields.io/github/license/NazarPonochevnyi/Interactive-table-Hand-Detector-and-Classifier)
+![](https://img.shields.io/github/languages/code-size/NazarPonochevnyi/Interactive-table-Hand-Detector-and-Classifier)
+![](https://img.shields.io/github/last-commit/NazarPonochevnyi/Interactive-table-Hand-Detector-and-Classifier)
+
+🖐️ Interships 2018 task - Computer Vision | My solution
 
 ### HOW TO START
 
@@ -75,3 +81,6 @@ Result of work on image with both hands:
 * To For recognition of the left and right hand - a simple binary classifier that works with convolutional neural networks. To create the model, the Keras library was used, and on the backend - TensorFlow.
 
 Author: Nazar Ponochevnyi
+
+## License
+[MIT License](./LICENSE)
