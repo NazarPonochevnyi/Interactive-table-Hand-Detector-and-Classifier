@@ -1,4 +1,4 @@
-# Interactive-table-Hand-Detector-and-Classifier
+# Interactive table Hand Detector and Classifier
 
 ![](https://img.shields.io/badge/-status:wip-5319e7.svg)
 ![](https://img.shields.io/github/license/NazarPonochevnyi/Interactive-table-Hand-Detector-and-Classifier)
